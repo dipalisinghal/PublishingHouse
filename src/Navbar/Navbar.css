@@ -1,0 +1,79 @@
+body {
+    font-family: 'Unica One', display;
+}
+.wholeNavbar{
+    
+
+
+}
+.imgNav {
+    
+    
+    
+    /*width: 50px;
+    height:10vh*/ 
+    
+}
+.titlebreak{
+    
+    width:50%;
+    
+
+}
+img {
+    width: auto;
+    height: 20vh;
+    align-self:center
+}
+.companyName{
+    text-align:center
+}
+/*.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}*/
+.navbarItems{
+   
+    
+}
+.navbarItemsUL {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+   
+}
+.navbarItemList {
+    justify-content: center;
+    list-style: none;
+     text-decoration:none;
+}
+.navbarItem {
+    margin: 15px;
+    font-family: 'Unica One', display;
+    font-size: 20px;
+    text-decoration: none;
+    color:black;
+}
+    .navbarItem:hover {
+        color: brown;
+        cursor: pointer;
+        text-decoration: none;
+    }
+    .navbarItem:active {
+        color: blueviolet;
+        
+        text-decoration: none;
+    }
+.link{
+    text-decoration:none;
+}
+@media (max-width: 535px) {
+    .navbarItemsUL {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+    }
+}

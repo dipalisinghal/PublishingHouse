@@ -1,0 +1,23 @@
+body {
+    font-family: 'Unica One', display;
+}
+./*footer{
+    bottom:0;
+    position:fixed;
+}*/
+.socialMediaIcon{
+    margin:5px;
+}
+.booksAvailabilty  {
+    margin: 8px;
+}
+.HouseAdd {
+    margin: 8px;
+}
+
+.Rights {
+    margin: 8px;
+}
+.socialMediaIcon:hover {
+    cursor: pointer;
+}

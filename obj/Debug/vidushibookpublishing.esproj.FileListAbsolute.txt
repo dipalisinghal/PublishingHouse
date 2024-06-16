@@ -1,0 +1,2 @@
+D:\ProjectDipali\VidushiBookPublishing\VidushiBookPublishing\obj\Debug\vidushibookpublishing.esproj.SuggestedBindingRedirects.cache
+D:\ProjectDipali\VidushiBookPublishing\VidushiBookPublishing\obj\Debug\vidushibookpublishing.esproj.CoreCompileInputs.cache
